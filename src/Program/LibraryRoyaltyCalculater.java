@@ -32,7 +32,6 @@ public class LibraryRoyaltyCalculater {
         // Printing authers with their royalty - In the auther.java class - I've made a toString
         // This toString method works with the AutherArrayList and prints all authers added to the Arraylist
         // With their royalty
-        
         AuthorArrayList.add(HCAndersen);
         AuthorArrayList.add(testAutherAudio);
         AuthorArrayList.add(testAutherPrinted);
